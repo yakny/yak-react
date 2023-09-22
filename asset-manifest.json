@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yak-react/static/css/main.d0c78156.css",
+    "main.js": "/yak-react/static/js/main.b9d8fa82.js",
+    "static/js/787.0f6241a0.chunk.js": "/yak-react/static/js/787.0f6241a0.chunk.js",
+    "index.html": "/yak-react/index.html",
+    "main.d0c78156.css.map": "/yak-react/static/css/main.d0c78156.css.map",
+    "main.b9d8fa82.js.map": "/yak-react/static/js/main.b9d8fa82.js.map",
+    "787.0f6241a0.chunk.js.map": "/yak-react/static/js/787.0f6241a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0c78156.css",
+    "static/js/main.b9d8fa82.js"
+  ]
+}
